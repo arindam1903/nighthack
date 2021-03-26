@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/nighthack/static/css/main.8d9b9585.chunk.css",
+    "main.js": "/nighthack/static/js/main.1336b2a7.chunk.js",
+    "main.js.map": "/nighthack/static/js/main.1336b2a7.chunk.js.map",
+    "runtime-main.js": "/nighthack/static/js/runtime-main.6eabfb96.js",
+    "runtime-main.js.map": "/nighthack/static/js/runtime-main.6eabfb96.js.map",
+    "static/js/2.3b9a4999.chunk.js": "/nighthack/static/js/2.3b9a4999.chunk.js",
+    "static/js/2.3b9a4999.chunk.js.map": "/nighthack/static/js/2.3b9a4999.chunk.js.map",
+    "index.html": "/nighthack/index.html",
+    "static/css/main.8d9b9585.chunk.css.map": "/nighthack/static/css/main.8d9b9585.chunk.css.map",
+    "static/js/2.3b9a4999.chunk.js.LICENSE.txt": "/nighthack/static/js/2.3b9a4999.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6eabfb96.js",
+    "static/js/2.3b9a4999.chunk.js",
+    "static/css/main.8d9b9585.chunk.css",
+    "static/js/main.1336b2a7.chunk.js"
+  ]
+}
